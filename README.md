@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mavlonbek Nurmatjonov
 - 👀 I’m interested in programming and design
-- 🌱 I’m currently learning web design
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
